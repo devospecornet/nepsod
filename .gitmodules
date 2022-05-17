@@ -1,0 +1,3 @@
+[submodule "Nepsod"]
+	path = Nepsod
+	url = https://github.com/devospecornet/Nepsod.git
